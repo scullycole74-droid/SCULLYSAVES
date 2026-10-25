@@ -1,10 +1,21 @@
-# SCULLY Change Log
+# SCULLY change notes
 
-## v1.1 — 2026-10-25
+## v1.3 — 2026-10-25 — automatic NHL slate and forward tracker
 
-- Imported 2026–27 October 25 MoneyPuck team totals for all situations, 5v5, 5v4 and 4v5 (179 NHL games; 32 teams).
-- Season-to-date team profiles use these published summaries until an equal-or-newer complete game-by-game refresh becomes available; recent form and model fit remain strictly based on available completed game logs.
-- Added a new source table and visible freshness disclosures.
-- Added daily automated GitHub workflow to download official MoneyPuck all_teams.csv, validate five situation records per team game and publish compact JSON.
-- Added browser-side same-origin JSON data loading with hourly checks, fallback and validation, without changing historical 2025–26 screening rules or the Stage 2 betting-model methodology.
-- No betting probability, historical scenario result or ROI figures were fabricated or changed.
+- Added automatic daily NHL schedule snapshots to the original Stage 1 tab, preserving its manual input mode.
+- Added tab 3 performance tracker with forward-only recorded results, actual verified shot thresholds, MAE, bias, breakdowns, running hit rate and daily history.
+- Existing Research + Data moved to tab 4; Stage 2 and the original 2025–26 screening research remain unchanged.
+- Added an hourly scheduled GitHub Action using NHL schedule/score and official boxscore endpoints. It executes Stage 1's ORIGINAL embedded functions from the HTML in a Node.js VM rather than replicating formulas.
+- The 2:00 a.m. America/Toronto slate changes only the display, not the historical tracking database.
+- Added data/tracking/season-2026.json initialized empty, no fabricated retrospective performance.
+- Added offline validation for duplicates, start-time freezes, output grading, missing data, DST, empty slates and existing website functionality.
+- Existing MoneyPuck daily workflow and the newer GitHub data/current-season.json must be preserved at deployment.
+- Live NHL API and Netlify/GitHub end-to-end operation are not verified until the user runs the workflow in their connected repository.
+
+## v1.2 — prior release
+
+- Added the historical league-wide home/away shot-volume adjustment to Stage 2 without double counting; preserved the original classification rules.
+
+## v1.1 — prior release
+
+- Added MoneyPuck daily 2026–27 game-log updater, October 25 published summaries, and model diagnostic updates.

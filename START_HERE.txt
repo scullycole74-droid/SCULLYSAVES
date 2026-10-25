@@ -1,0 +1,16 @@
+SCULLY v1.3 — Safe Update for your existing SCULLYSAVES website
+
+Use SCULLY_v1.3_SAFE_GitHub_Update.zip. Double-click to UNZIP it.
+In the existing GitHub repository https://github.com/scullycole74-droid/SCULLYSAVES choose Add file > Upload files. Upload the extracted CONTENTS, not the ZIP itself.
+This update keeps your existing Netlify project https://scullysaves.netlify.app/.
+
+1. Add/replace the listed index.html, netlify.toml, README.md and CHANGELOG.md, plus scripts/track_games.js, scripts/test_tracker.js, scripts/test_tracker_browser.py and data/tracking/season-2026.json.
+2. On Mac, use Command + Shift + . to SHOW the hidden .github folder; make sure .github/workflows/scully-tracker.yml also gets uploaded.
+3. Commit to main. VERIFY .github/workflows/scully-tracker.yml appears on the GitHub website. If GitHub omits it, create a new file with that full path and paste its content from the extracted folder.
+4. Open GitHub Actions > SCULLY Automatic Schedule and Performance Tracker > Run workflow. Verify a GREEN success check.
+5. Refresh https://scullysaves.netlify.app/ and check the 4 tabs.
+6. Keep .github/workflows/daily-moneypuck.yml and data/current-season.json UNCHANGED. The existing MoneyPuck updater still maintains these.
+
+CAUTION: A ZIP uploaded AS A FILE to GitHub will produce Netlify's 404 Page Not Found. Upload the extracted files/folders, leaving index.html at repository root.
+
+SEE README.md for full explanation. The historical tracker starts EMPTY intentionally; no fabricated earlier selections. First successful live NHL data run and finalized game still need verification.
