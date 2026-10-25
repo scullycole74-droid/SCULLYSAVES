@@ -1,0 +1,41 @@
+name: SCULLY Daily MoneyPuck Data
+
+on:
+  schedule:
+    - cron: '30 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scully-data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Download and validate MoneyPuck data
+        run: python scripts/update_moneypuck.py
+
+      - name: Commit updated statistics
+        run: |
+          if git diff --quiet -- data/current-season.json; then
+            echo 'No data changes.'
+            exit 0
+          fi
+          git config user.name 'SCULLY Data Bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/current-season.json
+          git commit -m 'Daily MoneyPuck 2026-27 data refresh'
+          git push
