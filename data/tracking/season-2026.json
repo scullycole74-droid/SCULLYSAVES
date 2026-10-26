@@ -107,10 +107,16 @@
       "projectedShots": 26.636166561267686,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 38,
+      "officialState": "FINAL",
+      "gradedAt": "2026-10-26T00:50:01.482Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": true,
+        "40": false
+      }
     },
     "2026020181|NYI": {
       "recordId": "2026020181|NYI",
@@ -134,10 +140,16 @@
       "projectedShots": 23.69327233241088,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 20,
+      "officialState": "FINAL",
+      "gradedAt": "2026-10-26T00:50:01.482Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020182|WPG": {
       "recordId": "2026020182|WPG",
