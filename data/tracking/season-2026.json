@@ -610,10 +610,16 @@
       "projectedShots": 25.556906346039025,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 31,
+      "officialState": "FINAL",
+      "gradedAt": "2026-10-28T01:53:55.839Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": false,
+        "40": false
+      }
     },
     "2026020188|CBJ": {
       "recordId": "2026020188|CBJ",
@@ -637,10 +643,16 @@
       "projectedShots": 28.421990074892204,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 15,
+      "officialState": "FINAL",
+      "gradedAt": "2026-10-28T01:53:55.839Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020189|CAR": {
       "recordId": "2026020189|CAR",
