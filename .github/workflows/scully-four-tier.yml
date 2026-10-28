@@ -1,0 +1,41 @@
+
+name: SCULLY four-tier pregame + final goalie saves tracker
+
+on:
+  schedule:
+    - cron: '7 5,12,16,20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scully-four-tier
+  cancel-in-progress: false
+
+jobs:
+  nightly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Update verified current-season game logs and frozen four-tier picks
+        run: python scripts/update_scully.py
+
+      - name: Commit changes only when new data exists
+        run: |
+          git config user.name 'SCULLY Tracker Bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/current-season.json data/tracking/four-tier-2026.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: update SCULLY pregame four-tier and goalie result archive'
+            git push
+          fi
