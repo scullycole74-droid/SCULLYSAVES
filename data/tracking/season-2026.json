@@ -2170,10 +2170,16 @@
       "projectedShots": 25.548848479158845,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 35,
+      "officialState": "OFF",
+      "gradedAt": "2026-10-30T05:43:22.280Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": true,
+        "40": false
+      }
     },
     "2026020211|BUF": {
       "recordId": "2026020211|BUF",
@@ -2197,10 +2203,16 @@
       "projectedShots": 26.27126543697817,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 31,
+      "officialState": "OFF",
+      "gradedAt": "2026-10-30T05:43:22.280Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": false,
+        "40": false
+      }
     },
     "2026020212|LAK": {
       "recordId": "2026020212|LAK",
@@ -2224,10 +2236,16 @@
       "projectedShots": 27.04479352770128,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 38,
+      "officialState": "OFF",
+      "gradedAt": "2026-10-30T05:43:22.280Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": true,
+        "40": false
+      }
     },
     "2026020212|OTT": {
       "recordId": "2026020212|OTT",
@@ -2251,10 +2269,16 @@
       "projectedShots": 26.512434492547122,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 22,
+      "officialState": "OFF",
+      "gradedAt": "2026-10-30T05:43:22.280Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020213|SJS": {
       "recordId": "2026020213|SJS",
