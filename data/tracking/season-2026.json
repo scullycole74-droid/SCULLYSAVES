@@ -1840,10 +1840,16 @@
       "projectedShots": 30.730358160710697,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 31,
+      "officialState": "OFF",
+      "gradedAt": "2026-10-30T02:46:18.204Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": false,
+        "40": false
+      }
     },
     "2026020203|CHI": {
       "recordId": "2026020203|CHI",
@@ -1867,10 +1873,16 @@
       "projectedShots": 22.91143738501167,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 19,
+      "officialState": "OFF",
+      "gradedAt": "2026-10-30T02:46:18.204Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020207|STL": {
       "recordId": "2026020207|STL",
@@ -1894,10 +1906,16 @@
       "projectedShots": 27.718838664181604,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 18,
+      "officialState": "FINAL",
+      "gradedAt": "2026-10-30T02:46:18.204Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020207|BOS": {
       "recordId": "2026020207|BOS",
@@ -1921,10 +1939,16 @@
       "projectedShots": 26.830612780492615,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 32,
+      "officialState": "FINAL",
+      "gradedAt": "2026-10-30T02:46:18.204Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": false,
+        "40": false
+      }
     },
     "2026020208|NSH": {
       "recordId": "2026020208|NSH",
@@ -2002,10 +2026,16 @@
       "projectedShots": 27.67299321433174,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 19,
+      "officialState": "FINAL",
+      "gradedAt": "2026-10-30T02:46:18.204Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020209|MTL": {
       "recordId": "2026020209|MTL",
@@ -2029,10 +2059,16 @@
       "projectedShots": 24.492447943694856,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 21,
+      "officialState": "FINAL",
+      "gradedAt": "2026-10-30T02:46:18.204Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020210|MIN": {
       "recordId": "2026020210|MIN",
@@ -2056,10 +2092,16 @@
       "projectedShots": 29.34975031117399,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 25,
+      "officialState": "FINAL",
+      "gradedAt": "2026-10-30T02:46:18.204Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020210|NYI": {
       "recordId": "2026020210|NYI",
@@ -2083,10 +2125,16 @@
       "projectedShots": 24.957244488757873,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 26,
+      "officialState": "FINAL",
+      "gradedAt": "2026-10-30T02:46:18.204Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020211|ANA": {
       "recordId": "2026020211|ANA",
