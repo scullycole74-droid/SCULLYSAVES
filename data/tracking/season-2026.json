@@ -3422,10 +3422,16 @@
       "projectedShots": 24.848581718747276,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 21,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-02T00:57:41.314Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020229|UTA": {
       "recordId": "2026020229|UTA",
@@ -3458,10 +3464,16 @@
       "projectedShots": 30.032534508753226,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 22,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-02T00:57:41.314Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020230|NYR": {
       "recordId": "2026020230|NYR",
