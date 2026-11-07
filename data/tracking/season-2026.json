@@ -5728,10 +5728,16 @@
       "projectedShots": 27.985124199724506,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 37,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-07T02:47:43.261Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": true,
+        "40": false
+      }
     },
     "2026020262|CBJ": {
       "recordId": "2026020262|CBJ",
@@ -5755,10 +5761,16 @@
       "projectedShots": 25.805584556728334,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 26,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-07T02:47:43.261Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020263|MIN": {
       "recordId": "2026020263|MIN",
