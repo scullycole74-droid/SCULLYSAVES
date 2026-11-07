@@ -6021,10 +6021,16 @@
       "projectedShots": 27.040313676155407,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 29,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-07T21:36:09.728Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020266|STL": {
       "recordId": "2026020266|STL",
@@ -6048,10 +6054,16 @@
       "projectedShots": 27.275134116225157,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 26,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-07T21:36:09.728Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020267|SEA": {
       "recordId": "2026020267|SEA",
