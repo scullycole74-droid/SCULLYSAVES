@@ -6773,10 +6773,16 @@
       "projectedShots": 25.984342320750624,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 36,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-08T21:35:26.391Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": true,
+        "40": false
+      }
     },
     "2026020277|FLA": {
       "recordId": "2026020277|FLA",
@@ -6800,10 +6806,16 @@
       "projectedShots": 29.068926505006704,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 41,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-08T21:35:26.391Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": true,
+        "40": true
+      }
     },
     "2026020278|BUF": {
       "recordId": "2026020278|BUF",
