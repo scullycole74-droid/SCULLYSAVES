@@ -7252,10 +7252,16 @@
       "projectedShots": 26.27970986499891,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 19,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-10T05:52:19.060Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020284|PHI": {
       "recordId": "2026020284|PHI",
@@ -7279,10 +7285,16 @@
       "projectedShots": 26.128741783144484,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 17,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-10T05:52:19.060Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020285|SJS": {
       "recordId": "2026020285|SJS",
