@@ -7186,10 +7186,16 @@
       "projectedShots": 27.85030939642429,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 20,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-10T03:49:43.934Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020283|NYR": {
       "recordId": "2026020283|NYR",
@@ -7213,10 +7219,16 @@
       "projectedShots": 26.25316708213181,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 29,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-10T03:49:43.934Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020284|VAN": {
       "recordId": "2026020284|VAN",
