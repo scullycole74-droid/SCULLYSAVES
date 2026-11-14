@@ -9122,10 +9122,16 @@
       "projectedShots": 29.008527835905006,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 42,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-14T06:56:08.498Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": true,
+        "40": true
+      }
     },
     "2026020311|NSH": {
       "recordId": "2026020311|NSH",
@@ -9149,10 +9155,16 @@
       "projectedShots": 25.984281742188198,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 32,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-14T06:56:08.498Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": false,
+        "40": false
+      }
     }
   },
   "missed": {
