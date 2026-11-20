@@ -11638,10 +11638,16 @@
       "projectedShots": 27.436980971079212,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 27,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020347|LAK": {
       "recordId": "2026020347|LAK",
@@ -11668,10 +11674,16 @@
       "projectedShots": 27.99377164031324,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 28,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020348|OTT": {
       "recordId": "2026020348|OTT",
@@ -11695,10 +11707,16 @@
       "projectedShots": 28.415325592150644,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 26,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020348|PHI": {
       "recordId": "2026020348|PHI",
@@ -11722,10 +11740,16 @@
       "projectedShots": 25.825297778714532,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 19,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020350|PIT": {
       "recordId": "2026020350|PIT",
@@ -11749,10 +11773,16 @@
       "projectedShots": 28.501922254465605,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 33,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": false,
+        "40": false
+      }
     },
     "2026020350|STL": {
       "recordId": "2026020350|STL",
@@ -11776,10 +11806,16 @@
       "projectedShots": 26.607241065417785,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 33,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": false,
+        "40": false
+      }
     },
     "2026020351|WSH": {
       "recordId": "2026020351|WSH",
@@ -11803,10 +11839,16 @@
       "projectedShots": 27.672620469122425,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 37,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": true,
+        "40": false
+      }
     },
     "2026020351|BUF": {
       "recordId": "2026020351|BUF",
@@ -11830,10 +11872,16 @@
       "projectedShots": 27.64665027432568,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 18,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020352|CAR": {
       "recordId": "2026020352|CAR",
@@ -11857,10 +11905,16 @@
       "projectedShots": 31.30400746610508,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 27,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020352|MTL": {
       "recordId": "2026020352|MTL",
@@ -11884,10 +11938,16 @@
       "projectedShots": 24.95557686885861,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 24,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020354|WPG": {
       "recordId": "2026020354|WPG",
@@ -11911,10 +11971,16 @@
       "projectedShots": 28.360662018270187,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 22,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020354|NYI": {
       "recordId": "2026020354|NYI",
@@ -11938,10 +12004,16 @@
       "projectedShots": 26.631890127212504,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 25,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020349|TBL": {
       "recordId": "2026020349|TBL",
@@ -11968,10 +12040,16 @@
       "projectedShots": 29.683349055903253,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 19,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020349|EDM": {
       "recordId": "2026020349|EDM",
@@ -11995,10 +12073,16 @@
       "projectedShots": 25.194257124785445,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 24,
+      "officialState": "OFF",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020353|CHI": {
       "recordId": "2026020353|CHI",
@@ -12022,10 +12106,16 @@
       "projectedShots": 26.25021851171282,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 25,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": true,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020353|CBJ": {
       "recordId": "2026020353|CBJ",
@@ -12049,10 +12139,16 @@
       "projectedShots": 28.04519988596495,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 33,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": false,
+        "40": false
+      }
     },
     "2026020355|CGY": {
       "recordId": "2026020355|CGY",
@@ -12076,10 +12172,16 @@
       "projectedShots": 27.59620657793254,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 23,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020355|MIN": {
       "recordId": "2026020355|MIN",
@@ -12106,10 +12208,16 @@
       "projectedShots": 27.971016760240193,
       "projectionMethod": "2026–27 Poisson regression + fixed league venue",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 22,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-20T03:53:23.357Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020356|COL": {
       "recordId": "2026020356|COL",
