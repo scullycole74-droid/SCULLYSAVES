@@ -12535,10 +12535,16 @@
       "projectedShots": 29.28248895695536,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 35,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-21T23:37:43.609Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": true,
+        "40": false
+      }
     },
     "2026020360|CHI": {
       "recordId": "2026020360|CHI",
@@ -12562,10 +12568,16 @@
       "projectedShots": 25.533897170088302,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 33,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-21T23:37:43.609Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": false,
+        "40": false
+      }
     },
     "2026020361|FLA": {
       "recordId": "2026020361|FLA",
