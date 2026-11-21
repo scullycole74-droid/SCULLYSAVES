@@ -12469,10 +12469,16 @@
       "projectedShots": 30.115010189632734,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 36,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-21T21:39:43.162Z",
+      "reached": {
+        "25": true,
+        "30": true,
+        "35": true,
+        "40": false
+      }
     },
     "2026020359|EDM": {
       "recordId": "2026020359|EDM",
@@ -12496,10 +12502,16 @@
       "projectedShots": 22.656171856443105,
       "projectionMethod": "2025–26 league-venue shot-rate baseline",
       "projectionReason": null,
-      "shotStatus": "PENDING",
-      "actualShots": null,
-      "officialState": null,
-      "gradedAt": null
+      "shotStatus": "FINAL",
+      "actualShots": 15,
+      "officialState": "FINAL",
+      "gradedAt": "2026-11-21T21:39:43.162Z",
+      "reached": {
+        "25": false,
+        "30": false,
+        "35": false,
+        "40": false
+      }
     },
     "2026020360|CGY": {
       "recordId": "2026020360|CGY",
