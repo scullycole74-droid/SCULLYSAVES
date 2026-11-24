@@ -455,6 +455,13 @@
         "2026020384"
       ],
       "checkedAt": null
+    },
+    "2026-11-24": {
+      "date": "2026-11-24",
+      "gameIds": [
+        "2026020385"
+      ],
+      "checkedAt": null
     }
   },
   "records": {
@@ -14204,6 +14211,63 @@
         "35": false,
         "40": false
       }
+    },
+    "2026020385|EDM": {
+      "recordId": "2026020385|EDM",
+      "gameId": "2026020385",
+      "gameDate": "2026-11-24",
+      "home": "EDM",
+      "away": "VGK",
+      "attack": "EDM",
+      "defense": "VGK",
+      "startTimeUTC": "2026-11-25T01:00:00Z",
+      "snapshotUTC": "2026-11-24T07:14:02.392Z",
+      "dataThrough": "20261122",
+      "window": "season",
+      "modelVersion": "SCULLY v1.3",
+      "classif": "RED",
+      "scenario": "S01",
+      "qualifyingScenarios": [],
+      "reason": null,
+      "historicalSample": 2440,
+      "historical35Rate": 0.14918032786885246,
+      "projectedShots": 25.724375776133076,
+      "projectionMethod": "2025–26 league-venue shot-rate baseline",
+      "projectionReason": null,
+      "shotStatus": "PENDING",
+      "actualShots": null,
+      "officialState": null,
+      "gradedAt": null
+    },
+    "2026020385|VGK": {
+      "recordId": "2026020385|VGK",
+      "gameId": "2026020385",
+      "gameDate": "2026-11-24",
+      "home": "EDM",
+      "away": "VGK",
+      "attack": "VGK",
+      "defense": "EDM",
+      "startTimeUTC": "2026-11-25T01:00:00Z",
+      "snapshotUTC": "2026-11-24T07:14:02.392Z",
+      "dataThrough": "20261122",
+      "window": "season",
+      "modelVersion": "SCULLY v1.3",
+      "classif": "GREEN",
+      "scenario": "S08",
+      "qualifyingScenarios": [
+        "S08",
+        "S10"
+      ],
+      "reason": null,
+      "historicalSample": 151,
+      "historical35Rate": 0.23841059602649006,
+      "projectedShots": 27.666590624056187,
+      "projectionMethod": "2025–26 league-venue shot-rate baseline",
+      "projectionReason": null,
+      "shotStatus": "PENDING",
+      "actualShots": null,
+      "officialState": null,
+      "gradedAt": null
     }
   },
   "missed": {
